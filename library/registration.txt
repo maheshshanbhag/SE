@@ -1,0 +1,4 @@
+collage ID :
+student register number:
+student name:
+librerian should provide membership card to the student..
